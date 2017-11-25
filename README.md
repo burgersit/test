@@ -1,5 +1,6 @@
 # Test Telegram Bot
 
-Testing the https://github.com/ghaiklor/telegram-bot-github Github notifcation bot
+1. https://github.com/ghaiklor/telegram-bot-github [DID NOT WORK]
+2. https://telegram.me/githubbot
 
 
